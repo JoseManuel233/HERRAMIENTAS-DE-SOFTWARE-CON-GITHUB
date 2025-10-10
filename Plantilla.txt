@@ -7,3 +7,6 @@ Cada integrante escribe aquí una pregunta sobre los conceptos que no entendió 
 
 ### Hector Benitez 
 ##¿Qué pasa si dos personas modifican el mismo archivo al mismo tiempo en GitHub? 
+
+### Jose Manuel Mejia
+## Respondiendo a Hector Benitez: Si dos personas modifican el mismo archivo al mismo tiempo en GitHub, al hacer push, quien lo haga primero lo sube correctamente, y la segunda persona recibirá un conflicto que deberá resolver antes de poder subir sus cambios.
