@@ -1,15 +1,19 @@
 Plantilla para Issue
-
 Título del Issue: Discusión: Conceptos del artículo
-
-
 Cada integrante escribe aquí una pregunta sobre los conceptos que no entendió del artículo y otro integrante puede responderla. 
-
 ### Hector Benitez 
 ##¿Qué pasa si dos personas modifican el mismo archivo al mismo tiempo en GitHub? 
-
 ### Jose Manuel Mejia
 ## Respondiendo a Hector Benitez: Si dos personas modifican el mismo archivo al mismo tiempo en GitHub, al hacer push, quien lo haga primero lo sube correctamente, y la segunda persona recibirá un conflicto que deberá resolver antes de poder subir sus cambios.
 
 ### Jose Manuel Mejia
 ##¿Qué es un 'commit' en Git y para qué sirve?
+
+### Carlos Uzziel Carreón Ramírez
+## Respondiendo a Jose Manuel Mejia: Un 'commit' en Git es una instantánea o registro de los cambios realizados en los archivos de un repositorio en un momento específico. Sirve para rastrear el historial del proyecto, permitir la colaboración al documentar qué se modificó y por quién, y facilitar la reversión a versiones anteriores si algo sale mal.
+
+### Carlos Uzziel Carreón Ramírez
+## ¿Qué es un 'branch' en Git y para qué se utiliza?
+
+### Hector Benitez
+## Respondiendo a Carlos Uzziel Carreón Ramírez: Un 'branch' en Git es una línea de desarrollo independiente dentro de un repositorio. Se utiliza para trabajar en nuevas características, correcciones de errores o experimentos sin afectar el código principal (como la rama 'main' o 'master'). Una vez completado, se puede fusionar (merge) con la rama principal para integrar los cambios. Esto promueve el trabajo paralelo y reduce riesgos en proyectos colaborativos.
