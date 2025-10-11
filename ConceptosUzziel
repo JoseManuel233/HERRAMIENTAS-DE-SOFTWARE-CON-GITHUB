@@ -1,0 +1,24 @@
+- Qué es GitHub?
+Es una plataforma web para alojar y colaborar en proyectos de código usando Git. Como un "Facebook" para programadores, donde subes repositorios, compartes código y trabajas en equipo.
+
+- Qué es Git?
+Un sistema de control de versiones distribuido, creado por Linus Torvalds. Básicamente, una herramienta que rastrea cambios en archivos (sobre todo código) para que puedas revertir errores o colaborar sin caos.
+
+- Control de versiones
+Es el proceso de manejar cambios en archivos o proyectos a lo largo del tiempo. Imagina un "historial editable" que evita que pierdas versiones antiguas o que el equipo se pise el trabajo.
+
+- Ramas (Branches)
+Son como "copias paralelas" de tu proyecto en Git. Te permiten experimentar o desarrollar features nuevas sin tocar la versión principal (main). Al final, las merges para unir todo.
+
+- Pull Requests
+Una forma de proponer cambios en un repo de GitHub. Es como decir: "Oye, revisa esto que modifiqué y aprueba para integrarlo". Ideal para revisiones de código y colaboraciones.
+
+- Commits
+Cada "commit" es un snapshot de cambios en tus archivos, con un mensaje que explica qué hiciste. Son los bloques básicos de Git, como guardar puntos en un videojuego para no perder progreso.
+
+- Ventajas de usar GitHub
+Colaboración fácil con equipos globales.
+Backup automático de código en la nube.
+Herramientas integradas como issues, wikis y CI/CD.
+Comunidad enorme para forks y contribuciones open-source.
+Gratis para lo básico, y ayuda a mostrar tu portafolio a empleadores.
